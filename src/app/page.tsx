@@ -8,7 +8,7 @@ import { TravelTipsSection } from '@/components/TravelTipsSection';
 import { Section } from '@/components/Section';
 import { Question } from '@/components/Question';
 
-export default function HomePage() {
+export default function Page() {
   return (
     <div>
       <Hero />
